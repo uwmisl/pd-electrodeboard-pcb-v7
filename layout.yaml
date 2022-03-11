@@ -1,0 +1,1093 @@
+components:
+  E1:
+    flipped: false
+    footprint:
+      name: electrode_E1
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 8.5
+    rotation: -0.0
+  E10:
+    flipped: false
+    footprint:
+      name: electrode_E10
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 11.0
+    rotation: -0.0
+  E100:
+    flipped: false
+    footprint:
+      name: electrode_E100
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 43.5
+    rotation: -0.0
+  E101:
+    flipped: false
+    footprint:
+      name: electrode_E101
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 46.0
+    rotation: -0.0
+  E102:
+    flipped: false
+    footprint:
+      name: electrode_E102
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 46.0
+    rotation: -0.0
+  E103:
+    flipped: false
+    footprint:
+      name: electrode_E103
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 48.5
+    rotation: -0.0
+  E104:
+    flipped: false
+    footprint:
+      name: electrode_E104
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 48.5
+    rotation: -0.0
+  E105:
+    flipped: false
+    footprint:
+      name: electrode_E105
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 51.0
+    rotation: -0.0
+  E106:
+    flipped: false
+    footprint:
+      name: electrode_E106
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 51.0
+    rotation: -0.0
+  E107:
+    flipped: false
+    footprint:
+      name: electrode_E107
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 25.0
+    - 38.5
+    rotation: -0.0
+  E108:
+    flipped: false
+    footprint:
+      name: electrode_E108
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 25.0
+    - 38.5
+    rotation: -0.0
+  E109:
+    flipped: false
+    footprint:
+      name: electrode_E109
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 25.0
+    - 38.5
+    rotation: -0.0
+  E11:
+    flipped: false
+    footprint:
+      name: electrode_E11
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 11.0
+    rotation: -0.0
+  E110:
+    flipped: false
+    footprint:
+      name: electrode_E110
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 25.0
+    - 38.5
+    rotation: -0.0
+  E111:
+    flipped: false
+    footprint:
+      name: electrode_E111
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 25.0
+    - 38.5
+    rotation: -0.0
+  E112:
+    flipped: false
+    footprint:
+      name: electrode_E112
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 37.5
+    - 38.5
+    rotation: -0.0
+  E113:
+    flipped: false
+    footprint:
+      name: electrode_E113
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 37.5
+    - 38.5
+    rotation: -0.0
+  E114:
+    flipped: false
+    footprint:
+      name: electrode_E114
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 37.5
+    - 38.5
+    rotation: -0.0
+  E115:
+    flipped: false
+    footprint:
+      name: electrode_E115
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 37.5
+    - 38.5
+    rotation: -0.0
+  E116:
+    flipped: false
+    footprint:
+      name: electrode_E116
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 37.5
+    - 38.5
+    rotation: -0.0
+  E117:
+    flipped: false
+    footprint:
+      name: electrode_E117
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 50.0
+    - 38.5
+    rotation: -0.0
+  E118:
+    flipped: false
+    footprint:
+      name: electrode_E118
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 50.0
+    - 38.5
+    rotation: -0.0
+  E119:
+    flipped: false
+    footprint:
+      name: electrode_E119
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 50.0
+    - 38.5
+    rotation: -0.0
+  E12:
+    flipped: false
+    footprint:
+      name: electrode_E12
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 11.0
+    rotation: -0.0
+  E120:
+    flipped: false
+    footprint:
+      name: electrode_E120
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 50.0
+    - 38.5
+    rotation: -0.0
+  E121:
+    flipped: false
+    footprint:
+      name: electrode_E121
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 50.0
+    - 38.5
+    rotation: -0.0
+  E13:
+    flipped: false
+    footprint:
+      name: electrode_E13
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 11.0
+    rotation: -0.0
+  E14:
+    flipped: false
+    footprint:
+      name: electrode_E14
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 11.0
+    rotation: -0.0
+  E15:
+    flipped: false
+    footprint:
+      name: electrode_E15
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 13.5
+    rotation: -0.0
+  E16:
+    flipped: false
+    footprint:
+      name: electrode_E16
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 16.25
+    - 13.5
+    rotation: -0.0
+  E17:
+    flipped: false
+    footprint:
+      name: electrode_E17
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 18.75
+    - 13.5
+    rotation: -0.0
+  E18:
+    flipped: false
+    footprint:
+      name: electrode_E18
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 13.5
+    rotation: -0.0
+  E19:
+    flipped: false
+    footprint:
+      name: electrode_E19
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 23.75
+    - 13.5
+    rotation: -0.0
+  E2:
+    flipped: false
+    footprint:
+      name: electrode_E2
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 8.5
+    rotation: -0.0
+  E20:
+    flipped: false
+    footprint:
+      name: electrode_E20
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 26.25
+    - 13.5
+    rotation: -0.0
+  E21:
+    flipped: false
+    footprint:
+      name: electrode_E21
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 13.5
+    rotation: -0.0
+  E22:
+    flipped: false
+    footprint:
+      name: electrode_E22
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 31.25
+    - 13.5
+    rotation: -0.0
+  E23:
+    flipped: false
+    footprint:
+      name: electrode_E23
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 33.75
+    - 13.5
+    rotation: -0.0
+  E24:
+    flipped: false
+    footprint:
+      name: electrode_E24
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 13.5
+    rotation: -0.0
+  E25:
+    flipped: false
+    footprint:
+      name: electrode_E25
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 38.75
+    - 13.5
+    rotation: -0.0
+  E26:
+    flipped: false
+    footprint:
+      name: electrode_E26
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 41.25
+    - 13.5
+    rotation: -0.0
+  E27:
+    flipped: false
+    footprint:
+      name: electrode_E27
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 13.5
+    rotation: -0.0
+  E28:
+    flipped: false
+    footprint:
+      name: electrode_E28
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 46.25
+    - 13.5
+    rotation: -0.0
+  E29:
+    flipped: false
+    footprint:
+      name: electrode_E29
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 48.75
+    - 13.5
+    rotation: -0.0
+  E3:
+    flipped: false
+    footprint:
+      name: electrode_E3
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 8.5
+    rotation: -0.0
+  E30:
+    flipped: false
+    footprint:
+      name: electrode_E30
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 13.5
+    rotation: -0.0
+  E31:
+    flipped: false
+    footprint:
+      name: electrode_E31
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 53.75
+    - 13.5
+    rotation: -0.0
+  E32:
+    flipped: false
+    footprint:
+      name: electrode_E32
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 56.25
+    - 13.5
+    rotation: -0.0
+  E33:
+    flipped: false
+    footprint:
+      name: electrode_E33
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 13.5
+    rotation: -0.0
+  E34:
+    flipped: false
+    footprint:
+      name: electrode_E34
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 16.0
+    rotation: -0.0
+  E35:
+    flipped: false
+    footprint:
+      name: electrode_E35
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 16.0
+    rotation: -0.0
+  E36:
+    flipped: false
+    footprint:
+      name: electrode_E36
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 16.0
+    rotation: -0.0
+  E37:
+    flipped: false
+    footprint:
+      name: electrode_E37
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 16.0
+    rotation: -0.0
+  E38:
+    flipped: false
+    footprint:
+      name: electrode_E38
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 16.0
+    rotation: -0.0
+  E39:
+    flipped: false
+    footprint:
+      name: electrode_E39
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 16.0
+    rotation: -0.0
+  E4:
+    flipped: false
+    footprint:
+      name: electrode_E4
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 8.5
+    rotation: -0.0
+  E40:
+    flipped: false
+    footprint:
+      name: electrode_E40
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 16.0
+    rotation: -0.0
+  E41:
+    flipped: false
+    footprint:
+      name: electrode_E41
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 18.5
+    rotation: -0.0
+  E42:
+    flipped: false
+    footprint:
+      name: electrode_E42
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 18.5
+    rotation: -0.0
+  E43:
+    flipped: false
+    footprint:
+      name: electrode_E43
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 18.5
+    rotation: -0.0
+  E44:
+    flipped: false
+    footprint:
+      name: electrode_E44
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 18.5
+    rotation: -0.0
+  E45:
+    flipped: false
+    footprint:
+      name: electrode_E45
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 18.5
+    rotation: -0.0
+  E46:
+    flipped: false
+    footprint:
+      name: electrode_E46
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 18.5
+    rotation: -0.0
+  E47:
+    flipped: false
+    footprint:
+      name: electrode_E47
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 18.5
+    rotation: -0.0
+  E48:
+    flipped: false
+    footprint:
+      name: electrode_E48
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 21.0
+    rotation: -0.0
+  E49:
+    flipped: false
+    footprint:
+      name: electrode_E49
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 23.5
+    rotation: -0.0
+  E5:
+    flipped: false
+    footprint:
+      name: electrode_E5
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 8.5
+    rotation: -0.0
+  E50:
+    flipped: false
+    footprint:
+      name: electrode_E50
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 26.0
+    rotation: -0.0
+  E51:
+    flipped: false
+    footprint:
+      name: electrode_E51
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 26.0
+    rotation: -0.0
+  E52:
+    flipped: false
+    footprint:
+      name: electrode_E52
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 26.0
+    rotation: -0.0
+  E53:
+    flipped: false
+    footprint:
+      name: electrode_E53
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 26.0
+    rotation: -0.0
+  E54:
+    flipped: false
+    footprint:
+      name: electrode_E54
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 26.0
+    rotation: -0.0
+  E55:
+    flipped: false
+    footprint:
+      name: electrode_E55
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 26.0
+    rotation: -0.0
+  E56:
+    flipped: false
+    footprint:
+      name: electrode_E56
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 26.0
+    rotation: -0.0
+  E57:
+    flipped: false
+    footprint:
+      name: electrode_E57
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 28.5
+    rotation: -0.0
+  E58:
+    flipped: false
+    footprint:
+      name: electrode_E58
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 28.5
+    rotation: -0.0
+  E59:
+    flipped: false
+    footprint:
+      name: electrode_E59
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 28.5
+    rotation: -0.0
+  E6:
+    flipped: false
+    footprint:
+      name: electrode_E6
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 8.5
+    rotation: -0.0
+  E60:
+    flipped: false
+    footprint:
+      name: electrode_E60
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 28.5
+    rotation: -0.0
+  E61:
+    flipped: false
+    footprint:
+      name: electrode_E61
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 28.5
+    rotation: -0.0
+  E62:
+    flipped: false
+    footprint:
+      name: electrode_E62
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 28.5
+    rotation: -0.0
+  E63:
+    flipped: false
+    footprint:
+      name: electrode_E63
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 28.5
+    rotation: -0.0
+  E64:
+    flipped: false
+    footprint:
+      name: electrode_E64
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 31.0
+    rotation: -0.0
+  E65:
+    flipped: false
+    footprint:
+      name: electrode_E65
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 31.0
+    rotation: -0.0
+  E66:
+    flipped: false
+    footprint:
+      name: electrode_E66
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 16.25
+    - 31.0
+    rotation: -0.0
+  E67:
+    flipped: false
+    footprint:
+      name: electrode_E67
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 18.75
+    - 31.0
+    rotation: -0.0
+  E68:
+    flipped: false
+    footprint:
+      name: electrode_E68
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 31.0
+    rotation: -0.0
+  E69:
+    flipped: false
+    footprint:
+      name: electrode_E69
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 23.75
+    - 31.0
+    rotation: -0.0
+  E7:
+    flipped: false
+    footprint:
+      name: electrode_E7
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 8.5
+    rotation: -0.0
+  E70:
+    flipped: false
+    footprint:
+      name: electrode_E70
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 26.25
+    - 31.0
+    rotation: -0.0
+  E71:
+    flipped: false
+    footprint:
+      name: electrode_E71
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 28.75
+    - 31.0
+    rotation: -0.0
+  E72:
+    flipped: false
+    footprint:
+      name: electrode_E72
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 31.25
+    - 31.0
+    rotation: -0.0
+  E73:
+    flipped: false
+    footprint:
+      name: electrode_E73
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 33.75
+    - 31.0
+    rotation: -0.0
+  E74:
+    flipped: false
+    footprint:
+      name: electrode_E74
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 31.0
+    rotation: -0.0
+  E75:
+    flipped: false
+    footprint:
+      name: electrode_E75
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 38.75
+    - 31.0
+    rotation: -0.0
+  E76:
+    flipped: false
+    footprint:
+      name: electrode_E76
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 41.25
+    - 31.0
+    rotation: -0.0
+  E77:
+    flipped: false
+    footprint:
+      name: electrode_E77
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 43.75
+    - 31.0
+    rotation: -0.0
+  E78:
+    flipped: false
+    footprint:
+      name: electrode_E78
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 46.25
+    - 31.0
+    rotation: -0.0
+  E79:
+    flipped: false
+    footprint:
+      name: electrode_E79
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 48.75
+    - 31.0
+    rotation: -0.0
+  E8:
+    flipped: false
+    footprint:
+      name: electrode_E8
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 13.75
+    - 11.0
+    rotation: -0.0
+  E80:
+    flipped: false
+    footprint:
+      name: electrode_E80
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 51.25
+    - 31.0
+    rotation: -0.0
+  E81:
+    flipped: false
+    footprint:
+      name: electrode_E81
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 53.75
+    - 31.0
+    rotation: -0.0
+  E82:
+    flipped: false
+    footprint:
+      name: electrode_E82
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 56.25
+    - 31.0
+    rotation: -0.0
+  E83:
+    flipped: false
+    footprint:
+      name: electrode_E83
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 58.75
+    - 31.0
+    rotation: -0.0
+  E84:
+    flipped: false
+    footprint:
+      name: electrode_E84
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 31.0
+    rotation: -0.0
+  E85:
+    flipped: false
+    footprint:
+      name: electrode_E85
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 33.5
+    rotation: -0.0
+  E86:
+    flipped: false
+    footprint:
+      name: electrode_E86
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 23.75
+    - 33.5
+    rotation: -0.0
+  E87:
+    flipped: false
+    footprint:
+      name: electrode_E87
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 33.5
+    rotation: -0.0
+  E88:
+    flipped: false
+    footprint:
+      name: electrode_E88
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 48.75
+    - 33.5
+    rotation: -0.0
+  E89:
+    flipped: false
+    footprint:
+      name: electrode_E89
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 33.5
+    rotation: -0.0
+  E9:
+    flipped: false
+    footprint:
+      name: electrode_E9
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 21.25
+    - 11.0
+    rotation: -0.0
+  E90:
+    flipped: false
+    footprint:
+      name: electrode_E90
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 36.0
+    rotation: -0.0
+  E91:
+    flipped: false
+    footprint:
+      name: electrode_E91
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 23.75
+    - 36.0
+    rotation: -0.0
+  E92:
+    flipped: false
+    footprint:
+      name: electrode_E92
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 36.25
+    - 36.0
+    rotation: -0.0
+  E93:
+    flipped: false
+    footprint:
+      name: electrode_E93
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 48.75
+    - 36.0
+    rotation: -0.0
+  E94:
+    flipped: false
+    footprint:
+      name: electrode_E94
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 36.0
+    rotation: -0.0
+  E95:
+    flipped: false
+    footprint:
+      name: electrode_E95
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 38.5
+    rotation: -0.0
+  E96:
+    flipped: false
+    footprint:
+      name: electrode_E96
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 38.5
+    rotation: -0.0
+  E97:
+    flipped: false
+    footprint:
+      name: electrode_E97
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 41.0
+    rotation: -0.0
+  E98:
+    flipped: false
+    footprint:
+      name: electrode_E98
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 61.25
+    - 41.0
+    rotation: -0.0
+  E99:
+    flipped: false
+    footprint:
+      name: electrode_E99
+      path: /home/jeff/dev/misl/hw/pd-electrodeboard-pcb-v7/electrodes.pretty
+    location:
+    - 11.25
+    - 43.5
+    rotation: -0.0
+origin:
+- 162.5
+- 62.25
